@@ -16,5 +16,5 @@ This is tool for recovering deleted records in MSSQL
 #### Instructions:
 1) Go to the [database-master-->Parser-->mssql.py ](/Parser/mssql.py)
 3) Go to the 96th line and update the required data such as mssql file path which needs to recover 
-4) Open the desired code editor with python extension enabled and run the [**test.py** ](database-master/test.py)
+4) Open the desired code editor with python extension enabled and run the [**test.py** ](/database-master/test.py)
 5) Running Code command on terminal--> Python test.py
