@@ -1,1 +1,2 @@
-# Rdbms-IA-Aagman-Suri-1911066
+# Delete Records Recovery for MSSQL (Microsoft SQL Server)
+This is tool for recovering deleted records in MSSQL
